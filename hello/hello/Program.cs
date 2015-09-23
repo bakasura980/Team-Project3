@@ -12,6 +12,7 @@ namespace hello
         {
             Console.WriteLine("Hello team");
             Console.WriteLine("what?!");
+            Console.WriteLine(5 + 5);
         }
     }
 }
